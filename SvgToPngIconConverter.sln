@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SvgToPngIconConverter", "SvgToPngIconConverter\SvgToPngIconConverter.csproj", "{30237CF0-7388-4E8A-B79E-0EACF1040D1E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8FCE4DB7-D1E1-441E-AE4A-24CE6A8579BC}"
+	ProjectSection(SolutionItems) = preProject
+		Icon.ico = Icon.ico
+		Icon.svg = Icon.svg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30237CF0-7388-4E8A-B79E-0EACF1040D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30237CF0-7388-4E8A-B79E-0EACF1040D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30237CF0-7388-4E8A-B79E-0EACF1040D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30237CF0-7388-4E8A-B79E-0EACF1040D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A534D07D-0EDF-4A8E-BD54-9FBDD1F89811}
+	EndGlobalSection
+EndGlobal
